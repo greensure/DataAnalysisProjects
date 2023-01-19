@@ -1,0 +1,6 @@
+"0","paste(""Here are clusters on the original data set"")"
+"1","[1]"
+"1"," ""Here are clusters on the original data set"""
+"1","
+"
+"0","plot(df.customers)"

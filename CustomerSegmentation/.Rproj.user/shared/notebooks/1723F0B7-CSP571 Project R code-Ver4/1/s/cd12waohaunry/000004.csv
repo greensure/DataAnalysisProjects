@@ -1,0 +1,3 @@
+"0","# Handling outliers: check the outliers by the boxplotx"
+"0",""
+"0","boxplot(Mall_Customers, col=""skyblue"", main=""Check the outliers on original data set"")"

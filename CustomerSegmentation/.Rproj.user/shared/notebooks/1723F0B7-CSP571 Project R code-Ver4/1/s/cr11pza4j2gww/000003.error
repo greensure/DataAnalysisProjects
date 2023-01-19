@@ -1,0 +1,1 @@
+{"frames":[{"func":"kmeans(Data_income_score_gender, 6, nstart = 25)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0},{"func":"as.matrix(x)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in as.matrix(x) : object 'Data_income_score_gender' not found\n"}

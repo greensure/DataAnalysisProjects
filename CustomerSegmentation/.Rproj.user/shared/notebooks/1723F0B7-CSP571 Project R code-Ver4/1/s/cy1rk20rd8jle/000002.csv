@@ -1,0 +1,4 @@
+"0","# Remove the feature 'Gender' in our final data frame named 'df.customers' since it has no relationship with Spending.Score"
+"0",""
+"0","df.customers <- df.customers[, -1]"
+"0","head(df.customers)"

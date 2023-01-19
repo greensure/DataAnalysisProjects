@@ -1,0 +1,5 @@
+"0",""
+"0","# Load final data set"
+"0","df.customers <- data.frame(Annual.Income = df.customers$Annual.Income,"
+"0","                           Spending.Score = df.customers$Spending.Score)"
+"0","head(df.customers)"

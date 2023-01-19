@@ -1,0 +1,7 @@
+"0","library(ggplot2)"
+"0","# Ref: https://www.statology.org/density-curves/"
+"0","# Ref: https://www.r-bloggers.com/2021/11/how-to-perform-univariate-analysis-in-r/"
+"0",""
+"0","par(mfrow=c(2,2))"
+"0",""
+"0","plot(density(df.customers$Gender))"

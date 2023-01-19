@@ -1,0 +1,3 @@
+"0","# Remove ID"
+"0","Mall_Customers1 <- Mall_Customers[, -1]"
+"0","head(Mall_Customers1)"

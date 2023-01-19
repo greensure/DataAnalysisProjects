@@ -1,0 +1,7 @@
+"0",""
+"0","paste(""Here are clusters on the final data set"")"
+"1","[1]"
+"1"," ""Here are clusters on the final data set"""
+"1","
+"
+"0","plot(df.customers, pch=17)"

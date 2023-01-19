@@ -1,0 +1,7 @@
+"0",""
+"0","hist(df.customers$Spending.Score,"
+"0","     main=""HistoGram for Spending Score"","
+"0","     xlab=""Spending Score Class"","
+"0","     ylab=""Frequency"","
+"0","     col=""green"","
+"0","     labels=TRUE)"

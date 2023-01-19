@@ -1,0 +1,3 @@
+"0","kmeansModel_income_score_gender= kmeans(Data_income_score_gender,6, nstart = 25)"
+"2","Error in as.matrix(x) : object 'Data_income_score_gender' not found
+"

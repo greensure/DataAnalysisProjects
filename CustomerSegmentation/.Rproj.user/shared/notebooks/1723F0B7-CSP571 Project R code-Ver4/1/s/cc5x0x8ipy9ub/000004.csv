@@ -1,0 +1,7 @@
+"0",""
+"0",""
+"0","plot(density(df.customers$Annual.Income),"
+"0","     col=""yellow"","
+"0","     main=""Density Plot for Annual Income"","
+"0","     xlab=""Annual Income Class"","
+"0","     ylab=""Density"")"

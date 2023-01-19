@@ -1,0 +1,7 @@
+"0","# Handling outliers: remove outliers"
+"0",""
+"0","# print(max(Mall_Customers$Annual.Income))"
+"0",""
+"0","Mall_Customers1 = subset(Mall_Customers, Mall_Customers$Annual.Income != max(Mall_Customers$Annual.Income))"
+"0",""
+"0","boxplot(Mall_Customers1, col=""skyblue"", main=""Customers Data without Outliers"")"
