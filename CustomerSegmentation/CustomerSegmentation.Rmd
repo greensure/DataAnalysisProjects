@@ -2,8 +2,8 @@
 title: "Project"
 author: "Yuanyuan Sun, Carlos Muñoz Losa"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
   word_document: default
 ---
 
@@ -21,7 +21,7 @@ library(corrplot)
  
 # Every time you synchronize code from the repository, it's better to check and reset the working directory based on your development environment first. If you don't want to set the repository, you can comment the following line.
 
-setwd("D:/WorkSpace/RWorkSpace/CustomerSegmentation")
+setwd("D:/WorkSpace/RWorkSpace/DataAnalysisProjects/CustomerSegmentation")
 
 ```
 
