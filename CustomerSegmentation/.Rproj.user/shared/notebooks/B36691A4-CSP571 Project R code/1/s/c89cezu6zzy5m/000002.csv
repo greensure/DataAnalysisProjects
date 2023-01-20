@@ -1,6 +1,0 @@
-"0","# Set dummy variables"
-"0","#Mall_Customers1$Gender<-as.integer(Mall_Customers1$Gender) OR"
-"0","Mall_Customers <- transform(Mall_Customers, Gender =as.integer(Gender))"
-"2","Error in transform(Mall_Customers, Gender = as.integer(Gender)) : 
-  unused argument (Gender = as.integer(Gender))
-"

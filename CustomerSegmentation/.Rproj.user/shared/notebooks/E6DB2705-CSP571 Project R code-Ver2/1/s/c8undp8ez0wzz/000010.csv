@@ -1,3 +1,0 @@
-"0",""
-"0","# We don´t have missing values but we drop na values just to check"
-"0","# Mall_Customers1 = drop_na(Mall_Customers1)"

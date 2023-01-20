@@ -1,6 +1,0 @@
-"0",""
-"0","# A pie chart "
-"0","pct <- round(genderTable/sum(genderTable)*100)"
-"0","lbs <- paste(c(""Female"",""Male""), "" "", pct, ""%"", sep="" "")"
-"0","library(plotrix)"
-"0","pie3D(genderTable, labels=lbs, main=""Pie Chart Showing Ratio of Female and Male"")"

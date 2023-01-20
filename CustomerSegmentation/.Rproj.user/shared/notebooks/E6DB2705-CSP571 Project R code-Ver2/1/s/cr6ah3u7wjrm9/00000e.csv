@@ -1,7 +1,0 @@
-"0","#  Compactly displaying the internal structure of data frame: Mall_Customers."
-"0","# str(Mall_Customers)"
-"0",""
-"0","# Set dummy variables"
-"0","Mall_Customers$Gender<-as.integer(Mall_Customers$Gender)"
-"2","Error: object 'Mall_Customers' not found
-"

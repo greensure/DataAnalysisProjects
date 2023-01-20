@@ -1,3 +1,0 @@
-"0",""
-"0","# boxplot plot"
-"0","boxplot(df.customers$Age, col=""yellow"", main=""Boxplot for Descriptive Analysis of Age"")"

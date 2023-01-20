@@ -1,7 +1,0 @@
-"0",""
-"0",""
-"0","# 03 Annual.Income-Spending.Score Q-Q Plot"
-"0","xAnnualIncome <- df.customers$Annual.Income"
-"0",""
-"0","qqplot(xAnnualIncome, ySpendingScore, xlab = ""Annual.Income"", ylab = ""Spending.Score"", main = ""Annual.Income-Spending.Score Q-Q Plot"")"
-"0",""

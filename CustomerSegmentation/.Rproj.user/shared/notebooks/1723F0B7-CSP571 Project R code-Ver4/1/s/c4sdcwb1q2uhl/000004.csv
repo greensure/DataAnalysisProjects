@@ -1,6 +1,0 @@
-"0","# qqline(ySpendingScore, col = ""steelblue"", lwd = 2)"
-"0",""
-"0","# 02 Age-Spending.Score Q-Q Plot"
-"0","xAge <- df.customers$Age"
-"0",""
-"0","qqplot(xAge, ySpendingScore, xlab = ""Age"", ylab = ""Spending.Score"", main = ""Age-Spending.Score Q-Q Plot"")"

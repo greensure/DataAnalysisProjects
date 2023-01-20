@@ -1,8 +1,0 @@
-"0",""
-"0","Mall_Customers <- read.csv(""Mall_Customers.csv"","
-"0","                           header = TRUE, "
-"0","                           sep = "","", "
-"0","                           stringsAsFactors=TRUE,"
-"0","                           col.names = c(""CustomerID"",""Gender"",""Age"",""Annual Income"",""Spending Score""))"
-"0",""
-"0","head(Mall_Customers)"
